@@ -92,6 +92,17 @@
     }
   },
   "footer": {
+    "companyName": "Font Madrid",
+    "legalName": "Font Madrid (trade name of entrepreneur Jorge Serrano Lavisier)",
+    "servicesTitle": "Services",
+    "services": [
+      "Rope access",
+      "Plumbing",
+      "Roof waterproofing",
+      "Heating & gas"
+    ],
+    "scheduleTitle": "Opening hours",
+    "cta": "Request a quote",
     "rights": "© {{year}} Font Madrid. All rights reserved.",
     "legal": "Legal",
     "privacy": "Privacy"

@@ -92,6 +92,17 @@
     }
   },
   "footer": {
+    "companyName": "Font Madrid",
+    "legalName": "Font Madrid (denominación comercial del empresario Jorge Serrano Lavisier)",
+    "servicesTitle": "Servicios",
+    "services": [
+      "Trabajos verticales",
+      "Fontanería",
+      "Impermeabilización de cubiertas",
+      "Calefacción y gas"
+    ],
+    "scheduleTitle": "Horario",
+    "cta": "Solicita presupuesto",
     "rights": "© {{year}} Font Madrid. Todos los derechos reservados.",
     "legal": "Aviso legal",
     "privacy": "Privacidad"
