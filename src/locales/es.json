@@ -1,0 +1,104 @@
+{
+  "meta": {
+    "title_home": "Font Madrid | Trabajos verticales y fontanería en Madrid",
+    "desc_home": "Más de 25 años en fontanería, calefacción, gas y trabajos verticales en Madrid. Reparaciones en altura, impermeabilización de cubiertas y mantenimiento de edificios.",
+    "title_about": "Nosotros | Font Madrid",
+    "title_services": "Servicios | Font Madrid",
+    "title_contact": "Contacto | Font Madrid"
+  },
+  "nav": {
+    "home": "Inicio",
+    "about": "Nosotros",
+    "services": "Servicios",
+    "projects": "Proyectos",
+    "testimonials": "Clientes",
+    "contact": "Contacto"
+  },
+  "hero": {
+    "headline": "Más de 25 años de experiencia en fontanería, calefacción y trabajos verticales en Madrid.",
+    "sub": "Solucionamos reparaciones complejas en edificios y comunidades. Especialistas en accesos difíciles con técnicas de cuerdas.",
+    "cta": "Solicita presupuesto sin compromiso"
+  },
+  "why": {
+    "title": "¿Por qué elegirnos?",
+    "items": [
+      { "title": "Experiencia", "desc": "Desde 1998 ofreciendo soluciones técnicas fiables." },
+      { "title": "Seguridad", "desc": "Protocolos y EPIs certificados para trabajos en altura." },
+      { "title": "Especialistas", "desc": "Trabajos verticales sin andamios para minimizar costes." },
+      { "title": "Llave en mano", "desc": "Planificación, ejecución y limpieza final en cada obra." }
+    ]
+  },
+  "services": {
+    "title": "Servicios",
+    "interior": {
+      "title": "Trabajos de Interior",
+      "items": [
+        "Instalación de fontanería",
+        "Sustitución de interacumulador",
+        "Reparación de pozos",
+        "Instalación de bombas de achique",
+        "Canaletas y bajantes comunitarias",
+        "Filtraciones en duchas de piscina y jardines",
+        "Sustitución de acumuladores de agua"
+      ]
+    },
+    "roof": {
+      "title": "Azoteas y Cubiertas",
+      "items": [
+        "Reparación de limas en tejados",
+        "Impermeabilización de cubiertas",
+        "Juntas de dilatación entre edificios",
+        "Reparación de cabezas de vigas",
+        "Sustitución de sumideros"
+      ]
+    },
+    "vertical": {
+      "title": "Trabajo Vertical / Exterior",
+      "items": [
+        "Impermeabilizado de cerramientos de fachada",
+        "Reparación de injertos exteriores",
+        "Canalones y desagües en altura",
+        "Sustitución de bajantes de fibrocemento por PVC",
+        "Instalación de ascendentes y bajadas nuevas",
+        "Reparaciones en zonas de difícil acceso"
+      ]
+    },
+    "cta": "Pide valoración técnica"
+  },
+  "about": {
+    "title": "Sobre Font Madrid",
+    "body": "Font Madrid (denominación comercial del empresario Jorge Serrano Lavisier) es una empresa especializada en fontanería, calefacción, gas y trabajos verticales con sede en Madrid. Desde 1998 damos servicio a comunidades, administradores de fincas y pymes, ofreciendo soluciones seguras y eficientes en accesos complejos.",
+    "mission": "Proporcionar soluciones técnicas seguras y eficientes para comunidades y edificios en Madrid.",
+    "values_title": "Nuestros valores",
+    "values": ["Profesionalidad", "Seguridad", "Experiencia", "Responsabilidad"]
+  },
+  "contact": {
+    "title": "Contacto",
+    "desc": "Llámanos o solicita presupuesto sin compromiso.",
+    "form": {
+      "name": "Nombre",
+      "phone": "Teléfono",
+      "email": "Email (opcional)",
+      "message": "Mensaje",
+      "submit": "Enviar",
+      "success": "Gracias. Hemos recibido tu solicitud.",
+      "error": "No se pudo enviar. Inténtalo más tarde."
+    },
+    "details": {
+      "address": "Calle Sarria 38, Local, 28029 Madrid",
+      "hours": "Lunes–Viernes 08:15–14:00 / 15:00–19:00",
+      "phone": "917 405 265 / 655 56 19 69",
+      "email": "info@fontmadrid.es"
+    }
+  },
+  "footer": {
+    "rights": "© {{year}} Font Madrid. Todos los derechos reservados.",
+    "legal": "Aviso legal",
+    "privacy": "Privacidad"
+  },
+  "lang": {
+    "es": "ES",
+    "en": "EN",
+    "ca": "CA"
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "meta": {
+    "title_home": "Font Madrid | Treballs verticals i fontaneria a Madrid",
+    "desc_home": "Més de 25 anys en fontaneria, calefacció, gas i manteniment amb tècniques verticals a Madrid. Impermeabilització de cobertes i reparacions en alçada.",
+    "title_about": "Nosaltres | Font Madrid",
+    "title_services": "Serveis | Font Madrid",
+    "title_contact": "Contacte | Font Madrid"
+  },
+  "nav": {
+    "home": "Inici",
+    "about": "Nosaltres",
+    "services": "Serveis",
+    "projects": "Projectes",
+    "testimonials": "Clients",
+    "contact": "Contacte"
+  },
+  "hero": {
+    "headline": "Més de 25 anys de fontaneria, calefacció i treballs verticals a Madrid.",
+    "sub": "Resolem reparacions complexes per a edificis i comunitats. Especialistes en accessos difícils amb tècniques de cordes.",
+    "cta": "Demana pressupost sense compromís"
+  },
+  "why": {
+    "title": "Per què triar-nos",
+    "items": [
+      { "title": "Experiència", "desc": "Des de 1998 oferint solucions tècniques fiables." },
+      { "title": "Seguretat", "desc": "Protocols i EPIs certificats per a treballs en alçada." },
+      { "title": "Especialistes", "desc": "Tècniques verticals sense bastides per reduir costos." },
+      { "title": "Claus en mà", "desc": "Planificació, execució i neteja final a cada obra." }
+    ]
+  },
+  "services": {
+    "title": "Serveis",
+    "interior": {
+      "title": "Treballs d'Interior",
+      "items": [
+        "Instal·lació de fontaneria",
+        "Substitució d'interacumulador",
+        "Reparació de pous",
+        "Instal·lació de bombes de buidatge",
+        "Canaletes i baixants comunitaris",
+        "Filtracions en dutxes de piscina i jardins",
+        "Substitució d'acumuladors d'aigua"
+      ]
+    },
+    "roof": {
+      "title": "Cobertes i Terrasses",
+      "items": [
+        "Reparació de carenes en teulades",
+        "Impermeabilització de cobertes",
+        "Junta de dilatació entre edificis",
+        "Reparació de caps de bigues",
+        "Substitució de desaigües"
+      ]
+    },
+    "vertical": {
+      "title": "Treball Vertical / Exterior",
+      "items": [
+        "Impermeabilització de tancaments de façana",
+        "Reparació d'empelts exteriors",
+        "Canalons i desaigües en alçada",
+        "Substitució de baixants de fibrociment per PVC",
+        "Instal·lació de nous ascendents i baixades",
+        "Reparacions en zones de difícil accés"
+      ]
+    },
+    "cta": "Sol·licita valoració tècnica"
+  },
+  "about": {
+    "title": "Sobre Font Madrid",
+    "body": "Font Madrid (denominació comercial de l'empresari Jorge Serrano Lavisier) és una empresa especialitzada en fontaneria, calefacció, gas i treballs verticals amb seu a Madrid. Des de 1998 donem servei a comunitats, administradors de finques i pimes, oferint solucions segures i eficients en accessos complexos.",
+    "mission": "Proporcionar solucions tècniques segures i eficients per a comunitats i edificis a Madrid.",
+    "values_title": "Els nostres valors",
+    "values": ["Professionalitat", "Seguretat", "Experiència", "Responsabilitat"]
+  },
+  "contact": {
+    "title": "Contacte",
+    "desc": "Truca'ns o demana pressupost sense compromís.",
+    "form": {
+      "name": "Nom",
+      "phone": "Telèfon",
+      "email": "Email (opcional)",
+      "message": "Missatge",
+      "submit": "Enviar",
+      "success": "Gràcies. Hem rebut la teva sol·licitud.",
+      "error": "No s'ha pogut enviar. Torna-ho a provar més tard."
+    },
+    "details": {
+      "address": "Calle Sarria 38, Local, 28029 Madrid",
+      "hours": "Dilluns–Divendres 08:15–14:00 / 15:00–19:00",
+      "phone": "917 405 265 / 655 56 19 69",
+      "email": "info@fontmadrid.es"
+    }
+  },
+  "footer": {
+    "rights": "© {{year}} Font Madrid. Tots els drets reservats.",
+    "legal": "Avís legal",
+    "privacy": "Privadesa"
+  },
+  "lang": {
+    "es": "ES",
+    "en": "EN",
+    "ca": "CA"
+  }
+}

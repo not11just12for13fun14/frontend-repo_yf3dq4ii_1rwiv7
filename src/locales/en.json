@@ -1,0 +1,104 @@
+{
+  "meta": {
+    "title_home": "Font Madrid | Rope access and plumbing in Madrid",
+    "desc_home": "25+ years in plumbing, heating, gas and rope-access building maintenance in Madrid. Roof waterproofing, vertical repairs and community services.",
+    "title_about": "About Us | Font Madrid",
+    "title_services": "Services | Font Madrid",
+    "title_contact": "Contact | Font Madrid"
+  },
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "services": "Services",
+    "projects": "Projects",
+    "testimonials": "Clients",
+    "contact": "Contact"
+  },
+  "hero": {
+    "headline": "25+ years of plumbing, heating and rope-access works in Madrid.",
+    "sub": "We solve complex repairs for residential buildings and communities. Specialists in difficult access using rope techniques.",
+    "cta": "Request a free quote"
+  },
+  "why": {
+    "title": "Why choose us",
+    "items": [
+      { "title": "Experience", "desc": "Since 1998 delivering reliable technical solutions." },
+      { "title": "Safety", "desc": "Certified procedures and PPE for work at height." },
+      { "title": "Specialists", "desc": "Rope-access without scaffolding to reduce costs." },
+      { "title": "Turnkey", "desc": "Planning, execution and final clean-up on every job." }
+    ]
+  },
+  "services": {
+    "title": "Services",
+    "interior": {
+      "title": "Interior Works",
+      "items": [
+        "Plumbing installation",
+        "Inter-accumulator replacement",
+        "Well repair",
+        "Sump pump installation",
+        "Community gutters and downpipes",
+        "Pool shower / garden leak repairs",
+        "Hot water tank replacement"
+      ]
+    },
+    "roof": {
+      "title": "Roof & Terrace",
+      "items": [
+        "Ridge repair on roofs",
+        "Roof waterproofing",
+        "Expansion joint between buildings",
+        "Beam head repair",
+        "Drain replacement"
+      ]
+    },
+    "vertical": {
+      "title": "Vertical / Exterior Works",
+      "items": [
+        "Facade closing waterproofing",
+        "Exterior graft repairs",
+        "High-level gutters and drains",
+        "Asbestos-cement downpipe replacement with PVC",
+        "New risers and drops installation",
+        "Repairs in difficult access areas"
+      ]
+    },
+    "cta": "Get a technical assessment"
+  },
+  "about": {
+    "title": "About Font Madrid",
+    "body": "Font Madrid (trade name of entrepreneur Jorge Serrano Lavisier) is a specialist company in plumbing, heating, gas and rope-access in Madrid. Since 1998 we serve communities, building managers and SMEs, delivering safe and efficient solutions in complex access environments.",
+    "mission": "Provide safe and efficient technical solutions for communities and buildings in Madrid.",
+    "values_title": "Our values",
+    "values": ["Professionalism", "Safety", "Experience", "Responsibility"]
+  },
+  "contact": {
+    "title": "Contact",
+    "desc": "Call us or request a free quote.",
+    "form": {
+      "name": "Name",
+      "phone": "Phone",
+      "email": "Email (optional)",
+      "message": "Message",
+      "submit": "Send",
+      "success": "Thank you. We have received your request.",
+      "error": "Could not send. Please try later."
+    },
+    "details": {
+      "address": "Calle Sarria 38, Local, 28029 Madrid",
+      "hours": "Mon–Fri 08:15–14:00 / 15:00–19:00",
+      "phone": "917 405 265 / 655 56 19 69",
+      "email": "info@fontmadrid.es"
+    }
+  },
+  "footer": {
+    "rights": "© {{year}} Font Madrid. All rights reserved.",
+    "legal": "Legal",
+    "privacy": "Privacy"
+  },
+  "lang": {
+    "es": "ES",
+    "en": "EN",
+    "ca": "CA"
+  }
+}
