@@ -1,5 +1,5 @@
 import { useTranslation } from 'react-i18next';
-import { ShieldCheck, Settings, Award, Rope } from 'lucide-react';
+import { ShieldCheck, Settings, Award } from 'lucide-react';
 
 const iconMap = [Award, ShieldCheck, Settings, ShieldCheck];
 
